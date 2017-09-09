@@ -1,4 +1,4 @@
-# cucumber-crossplatform-boilerplate
+# Cucumber Crossplatform Boilerplate
 
 ## Introduction
 
@@ -16,7 +16,7 @@ npm install appium -g
 ```
 ## Authors
 
-* **Billie Thompson** - *Initial work* 
+* **Teddy Lun** - *Initial work* 
 
 ## Acknowledgments
 * https://github.com/Matt-B/cucumber-js-selenium-webdriver-example
