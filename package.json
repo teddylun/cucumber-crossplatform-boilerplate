@@ -1,0 +1,21 @@
+{
+  "name": "cucumber-gulp-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test",
+    "test_with_support": "gulp test_with_support"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "cucumber": "^3.0.1",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.6.3",
+    "selenium-webdriver": "^3.5.0"
+  },
+  "dependencies": {}
+}
